@@ -27,7 +27,7 @@ var makeRequest = function(){
 
                 if (wins[j].children[3].children[0] !== undefined && wins[j].children[3].children[0].hasOwnProperty('children')){
                     if (wins[j].children[3].children[0].children[0] !== undefined)
-                        address = wins[j].children[3].children[0].children[0].data.replace('\n', '').replace(',', '');
+                        address = wins[j].children[3].children[0].children[0].data.replace(/\n/g, '').replace(/,/g, '');
                     else
                         address = "";
                 }else {
@@ -35,7 +35,7 @@ var makeRequest = function(){
                 }
 
                 win = wins[j].children[0].children[0].data.replace('.', '') + ',' + wins[j].children[2].children[0].data + ',' + address + ',' +
-                    wins[j].children[4].children[0].data + ',' + wins[j].children[5].children[0].data.replace(/\s/g, '').replace(',', '.') + '\n';
+                    wins[j].children[4].children[0].data + ',' + wins[j].children[5].children[0].data.replace(/\s/g, '').replace(/,/, '.') + '\n';
                 fs.appendFileSync('data.csv', win);
             }
             ++i;
