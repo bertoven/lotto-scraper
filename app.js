@@ -27,7 +27,7 @@ var makeRequest = function(){
 
                 if (wins[j].children[3].children[0] !== undefined && wins[j].children[3].children[0].hasOwnProperty('children')){
                     if (wins[j].children[3].children[0].children[0] !== undefined)
-                        address = wins[j].children[3].children[0].children[0].data.replace('\n', '\\n');
+                        address = wins[j].children[3].children[0].children[0].data.replace('\n', '').replace(',', '');
                     else
                         address = "";
                 }else {

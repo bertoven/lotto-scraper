@@ -42,8 +42,8 @@ Lp.,Miejscowość,Adres kolektury,Data,Wygrana
 41,Katowice,Uniwersytecka 13,19-03-15,16540736.80
 42,Łódź,Rzgowska 64/66,19-12-15,15951087.10
 43,Sosnowiec,Orląt Lwowskich 138,19-12-15,15951087.10
-44,Ostrowiec Świętokrzyski,Waryńskiego 59\n,22-05-10,15728274.30
-45,Żmigród,PKWN b/n, Kiosk,20-07-13,15133506.50
+44,Ostrowiec Świętokrzyski,Waryńskiego 59,22-05-10,15728274.30
+45,Żmigród,PKWN b/n Kiosk,20-07-13,15133506.50
 46,Stary Sącz,ul. Piłsudskiego  ,05-09-13,15048784.00
 47,Lublin,Droga Męczenników Majdanka 28,05-05-15,14750740.00
 48,Lublin,Al. Spółdzielczości Pracy 30-32,08-10-15,14548459.00
@@ -64,11 +64,11 @@ Lp.,Miejscowość,Adres kolektury,Data,Wygrana
 63,Toruń,Grudziądzka 40,11-04-15,13219619.50
 64,Przemyśl,,19-06-10,13205180.50
 65,Kartuzy,Derdowskiego 5,10-03-12,13160390.60
-66,Radlin,Korfantego 8\n,10-03-12,13160390.60
-67,Sopot,Kolberga 11\n,10-03-12,13160390.60
+66,Radlin,Korfantego 8,10-03-12,13160390.60
+67,Sopot,Kolberga 11,10-03-12,13160390.60
 68,Kraków,Skotnicka 78,03-09-11,12869498.70
 69,Mikołów  ,Cieszyńska 17,03-12-13,12866019.70
-70,Oleśnica,Słoneczna/Armii Krajowej\n,05-08-10,12855531.70
+70,Oleśnica,Słoneczna/Armii Krajowej,05-08-10,12855531.70
 71,Lublin,Zana 19,20-08-11,12744020.20
 72,Warszawa,Pl. Trzech Krzyży,03-07-14,12706177.30
 73,Gdańsk,Wyzwolenia 28,16-07-11,12631492.90
@@ -80,20 +80,20 @@ Lp.,Miejscowość,Adres kolektury,Data,Wygrana
 79,Konin,Mickiewicza 4,12-07-16,12214755.50
 80,Warszawa,Jagiellońska 14 ,19-11-05,11859969.30
 81,Wejherowo,Staromłyńska 2a,25-12-08,11829197.90
-82,Łódź,Pojezierska 95\n,09-03-10,11760095.30
+82,Łódź,Pojezierska 95,09-03-10,11760095.30
 83,Kłodzko,Łużycka 1/3/3a,05-01-12,11738154.40
 84,Kościan,Kaźmierczaka 29/1,04-10-14,11721605.00
 85,Warszawa,ul. Targowa 72,20-08-13,11665729.40
-86,Kraków,Aleja Pokoju 67, M-1, Inmedio,09-12-14,11533844.70
+86,Kraków,Aleja Pokoju 67 M-1, Inmedio,09-12-14,11533844.70
 87,Piaseczno,Okulickiego 10,19-01-10,11531328.50
 88,Gryfino,Chrobrego 17,28-07-15,11430686.20
 89,Tarnów,Lwowska 63,26-11-15,11311823.30
 90,Lubin,Szpakowa 2a,10-04-10,11137664.30
 91,Jędrzejów,Głowackiego 10,04-08-16,10881085.70
 92,Kolbuszowa,11 Listopada 5,26-01-17,10827891.60
-93,Zawiercie,Obrońców Poczty Gdańskiej 20i\n,17-01-12,10732938.10
+93,Zawiercie,Obrońców Poczty Gdańskiej 20i,17-01-12,10732938.10
 94,Kraków,os. Handlowe,30-11-02,10689439.00
-95,Tarnowskie Góry,Opatowicka 58\n,25-03-10,10637066.30
+95,Tarnowskie Góry,Opatowicka 58,25-03-10,10637066.30
 96,Bielsko-Biała,Leszczyńska 20,09-06-12,10609536.20
 97,Oława,Iwaszkiewicza 14 ,15-10-16,10500579.60
 98,Katowice,Wojciecha 3,02-05-09,10496949.00
@@ -107,15 +107,15 @@ Lp.,Miejscowość,Adres kolektury,Data,Wygrana
 106,Krajenka,Rynek 5,27-12-06,10352615.50
 107,Gorzów Wielkopolski,Pocztowa,01-12-09,10168288.60
 108,Toruń,Szosa Bydgoska 26,01-12-09,10168288.60
-109,Starogard Gdański,Niepodległości 2a\n,30-10-10,9980739.90
+109,Starogard Gdański,Niepodległości 2a,30-10-10,9980739.90
 110,Puławy,Kołłątaja 18,23-09-06,9697428.70
 111,Tychy,Budowlanych 75,19-12-13,9644106.00
 112,Jelenia Góra,Wolności 53,18-02-16,9613732.30
 113,Warszawa,Wąwozowa / Stryjeńskich,23-02-08,9590344.20
-114,Łódź,Karskiego 5\n,28-07-11,9586823.70
-115,Żórawina,Al. Niepodległości 8a\n,11-06-11,9513719.00
+114,Łódź,Karskiego 5,28-07-11,9586823.70
+115,Żórawina,Al. Niepodległości 8a,11-06-11,9513719.00
 116,Bielsk Podlaski,Piłsudskiego 27,23-04-13,9479205.40
-117,Przemyśl,Czarnieckiego 9\n,28-04-11,9454537.20
+117,Przemyśl,Czarnieckiego 9,28-04-11,9454537.20
 118,Kozy,,29-07-08,9449247.80
 119,Toruń,Szosa Chełmińska 53,29-07-08,9449247.80
 120,Białystok,Legionowa 28,29-07-08,9449247.80
@@ -153,7 +153,7 @@ Lp.,Miejscowość,Adres kolektury,Data,Wygrana
 152,Wrocław,Kołłątaja 27/28,05-11-15,8236118.50
 153,Pieniężno,,21-05-09,8170353.60
 154,Mikołów,Gliwicka 3,02-03-13,8163475.90
-155,Wrocław,Szybka 2/4\n,11-10-11,8115459.40
+155,Wrocław,Szybka 2/4,11-10-11,8115459.40
 156,Białystok,,06-11-08,8093234.30
 157,Zabrze,Aleja Korfantego 5,06-11-08,8093234.30
 158,Kamienica Polska,Kamienica,06-11-08,8093234.30
@@ -161,21 +161,21 @@ Lp.,Miejscowość,Adres kolektury,Data,Wygrana
 160,Gdańsk,Rakoczego 15,06-11-08,8093234.30
 161,Łódź,,25-10-00,7972493.70
 162,Sulechów,,25-10-00,7972493.70
-163,Świdwin,Kombatantów Polskich 3d\n,16-04-11,7963386.20
+163,Świdwin,Kombatantów Polskich 3d,16-04-11,7963386.20
 164,Pleszew,Mieszka 1/2d,15-11-12,7940971.40
 165,Zduńska Wola,,30-05-09,7913910.30
-166,Świętochłowice,Górna 7\n,25-12-10,7887467.60
-167,Olsztyn,Gałczyńskiego\n,25-12-10,7887467.60
+166,Świętochłowice,Górna 7,25-12-10,7887467.60
+167,Olsztyn,Gałczyńskiego,25-12-10,7887467.60
 168,Pszczew,,23-05-07,7743597.30
 169,Kościan,,08-10-09,7715881.40
-170,Rzeszów,Słowackiego 16\n,29-10-11,7699294.20
+170,Rzeszów,Słowackiego 16,29-10-11,7699294.20
 171,Stalowa Wola,KEN 11,24-04-12,7697861.10
 172,Chodzież,Ujska 3,08-05-14,7681801.30
 173,Mierzęcice,,23-09-00,7680094.00
 174,Pruszków,,25-04-07,7671654.60
 175,Gdynia,Redłowska 41,02-10-12,7661336.00
 176,Częstochowa,Sobieskiego 42,12-01-17,7652865.00
-177,Żerków,Mickiewicza 22\n,20-10-11,7646768.40
+177,Żerków,Mickiewicza 22,20-10-11,7646768.40
 178,Gorzów Wielkopolski,Słowiańska 70,17-01-15,7583398.30
 179,Nysa,Jagiellońska 10A,17-01-15,7583398.30
 180,Gdynia,Legionów 58 / Syrokomli,17-01-15,7583398.30
@@ -190,9 +190,9 @@ Lp.,Miejscowość,Adres kolektury,Data,Wygrana
 189,Swadzim,św. Antoniego 2,11-06-13,7309644.20
 190,Wrocław,,23-06-09,7277097.40
 191,Kołobrzeg,Młyńska 9,15-12-12,7275908.00
-192,Warszawa,Lotników /Modzelewskiego\n,19-02-11,7268192.70
+192,Warszawa,Lotników /Modzelewskiego,19-02-11,7268192.70
 193,Lipinki,Kolejowa 1,19-02-11,7268192.70
-194,Szczytno,Odrodzenia 16/2\n,19-02-11,7268192.70
+194,Szczytno,Odrodzenia 16/2,19-02-11,7268192.70
 195,Jelenia Góra,Wolności 246,19-02-11,7268192.70
 196,Grotniki,Marszałkowska 27,07-05-11,7241577.40
 197,Pielgrzymowice,Golasowicka 2A,31-05-14,7167637.70
@@ -200,33 +200,33 @@ Lp.,Miejscowość,Adres kolektury,Data,Wygrana
 199,Białystok,,06-05-08,7166039.80
 200,Kielce,,06-05-08,7166039.80
 201,Ińsko,,24-12-05,7165660.80
-202,Pułtusk,Mickiewicza 45 m.51\n,04-02-10,7163765.20
+202,Pułtusk,Mickiewicza 45 m.51,04-02-10,7163765.20
 203,Bychawa,,20-03-04,7138079.70
 204,Legnica,,10-04-04,7107933.30
 205,Wałbrzych,Limanowskiego 1,15-01-13,7097391.00
 206,Turek,,28-07-09,7024944.90
-207,Pajęczno,Kościuszki 31\n,19-11-11,7019500.10
+207,Pajęczno,Kościuszki 31,19-11-11,7019500.10
 208,Słupsk,Mochnackiego 1a/2,14-08-14,7009272.80
 209,Katowice,,09-03-05,7008188.50
 210,Rajsko,św. Floriana,03-03-15,7001435.20
 211,Lublin,,05-12-09,7000000.00
 212,Koluszki,11-go Listopada 32,03-12-11,6924252.00
 213,Gliwice,Tarnogórska 19,03-12-11,6924252.00
-214,Wałbrzych,Wieniawskiego 70\n,19-10-10,6889667.80
+214,Wałbrzych,Wieniawskiego 70,19-10-10,6889667.80
 215,Lublin,,10-03-04,6853258.00
 216,Krzeszowice,Rynek 31,28-08-10,6841685.30
-217,Wola Batorska,Wola Batorska 442\n,28-08-10,6841685.30
+217,Wola Batorska,Wola Batorska 442,28-08-10,6841685.30
 218,Chojnice,Al. Bayeux 1,12-10-13,6798359.30
 219,Przeworsk,,23-02-05,6759462.20
 220,Zduńska Wola,,23-02-05,6759462.20
 221,Rawa Mazowiecka,,22-11-00,6749002.20
 222,Kraków,,22-11-00,6749002.20
 223,Gdynia,10 Lutego 11,01-04-17,6710082.80
-224,Police,Wyszyńskiego\n,21-06-11,6698919.50
+224,Police,Wyszyńskiego,21-06-11,6698919.50
 225,Reda,,31-12-09,6534667.40
 226,Biłgoraj,,31-12-09,6534667.40
 227,Żywiec,,14-12-05,6482092.50
-228,Warszawa,Barkocińska 6\n,22-07-10,6438001.20
+228,Warszawa,Barkocińska 6,22-07-10,6438001.20
 229,Nowy Targ ,Sobieskiego 4,20-06-13,6425485.60
 230,Płock,Wyszogrodzka 140,21-07-16,6415292.30
 231,Kraków,,30-12-00,6363614.20
@@ -262,7 +262,7 @@ Lp.,Miejscowość,Adres kolektury,Data,Wygrana
 261,Poznań,,22-11-06,5771450.40
 262,Warszawa,Jana Pawła II 29 (ATRIUM),04-07-13,5766860.70
 263,Jastrzębie-Zdrój,Harcerska 1 B,04-07-13,5766860.70
-264,Zakopane,Nowotarska 79\n,04-01-11,5732412.80
+264,Zakopane,Nowotarska 79,04-01-11,5732412.80
 265,Kostrzyn nad Odrą,,22-03-08,5728934.20
 266,Lwówek Śląski,Betleja 2A,16-02-12,5685721.20
 267,Stalowa Wola,KEN 11,08-11-16,5661204.40
@@ -279,24 +279,24 @@ Lp.,Miejscowość,Adres kolektury,Data,Wygrana
 278,Konstancin-Jeziorna,Kopernika/Sobieskiego,12-08-06,5427116.40
 279,Olsztyn,,13-12-07,5423580.10
 280,Wojkowice,,31-03-09,5409949.40
-281,Kraków,Zakopiańska, BP,14-02-15,5407690.20
+281,Kraków,Zakopiańska BP,14-02-15,5407690.20
 282,Kraków,,01-03-08,5396539.20
 283,Mielno,,07-02-09,5392594.40
 284,Gdańsk,Dmowskiego 16,31-12-15,5379498.70
 285,Chorzów,16 Lipca 28,11-02-10,5375761.60
 286,Szczecin,,28-02-09,5361359.20
 287,Mielec,,22-04-08,5354973.00
-288,Siedlce,Sobieskiego 16\n,18-02-10,5331769.40
+288,Siedlce,Sobieskiego 16,18-02-10,5331769.40
 289,Bojano,,29-10-05,5330406.20
 290,Wrocław,,29-10-05,5330406.20
 291,Wodzisław Śląski,26 Marca 94A,11-02-17,5320068.10
 292,Legionowo,Zegrzyńska 115,11-02-17,5320068.10
 293,Toruń,Podgórna 36,11-08-12,5254719.20
 294,Kędzierzyn-Koźle,,07-09-02,5249220.70
-295,Tomaszów Mazowiecki,Jerozolimska 23\n,07-01-10,5242005.40
+295,Tomaszów Mazowiecki,Jerozolimska 23,07-01-10,5242005.40
 296,Nidzica,,20-04-02,5230616.40
 297,Rzeszów,,06-03-02,5214409.20
-298,Pawłowice,Górnicza 8\n,02-04-11,5166053.90
+298,Pawłowice,Górnicza 8,02-04-11,5166053.90
 299,Słupsk,Braci Gierymskich,14-07-12,5153241.60
 300,Ełk,,11-08-04,5139267.60
 301,Trzcianka,Wiosny Ludów 6,01-12-12,5135644.40
@@ -324,9 +324,9 @@ Lp.,Miejscowość,Adres kolektury,Data,Wygrana
 323,Warszawa,ul. Ciszewskiego 15,11-01-14,4803039.20
 324,Szczecin,Bohaterów Warszawy,18-01-14,4765600.60
 325,Łódź,Przybyszewskiego 199/205,29-08-15,4758706.50
-326,Stalowa Wola,Okulickiego 140a\n,25-09-10,4755675.00
+326,Stalowa Wola,Okulickiego 140a,25-09-10,4755675.00
 327,Przemyśl,Spiechowicza 1,22-01-13,4732851.90
-328,Złotoryja,Rynek 20\n,16-11-10,4721367.60
+328,Złotoryja,Rynek 20,16-11-10,4721367.60
 329,Łowicz,11 Listopada 5,16-01-16,4699916.20
 330,Szczecinek,,06-12-00,4698126.90
 331,Lidzbark Warmiński,Polna 2,12-05-15,4682526.70
@@ -340,7 +340,7 @@ Lp.,Miejscowość,Adres kolektury,Data,Wygrana
 339,Odolanów,,29-09-09,4670943.30
 340,Choszczno,,29-09-09,4670943.30
 341,Kraków,,31-03-01,4662460.90
-342,Wierzchowo,Wojska Polskiego 1\n,07-10-10,4657672.60
+342,Wierzchowo,Wojska Polskiego 1,07-10-10,4657672.60
 343,Poznań,,17-11-01,4643305.90
 344,Gliwice,,17-11-01,4643305.90
 345,Kalisz,,17-11-01,4643305.90
@@ -351,7 +351,7 @@ Lp.,Miejscowość,Adres kolektury,Data,Wygrana
 350,Szczecin,Studzienna 16,20-12-14,4609043.90
 351,Olsztyn,Pstrowskiego 16,20-12-14,4609043.90
 352,Wrocław,,14-07-09,4592446.50
-353,Oświęcim,Obozowa 18d\n,31-05-11,4574917.00
+353,Oświęcim,Obozowa 18d,31-05-11,4574917.00
 354,Skoczów,Targowa 12,23-03-17,4572092.30
 355,Płock,Wyszogrodzka 163,01-03-16,4555625.20
 356,Warszawa,Żwirki i Wigury 1 Lotnisko - Terminal 2,23-05-13,4534739.90
@@ -363,7 +363,7 @@ Lp.,Miejscowość,Adres kolektury,Data,Wygrana
 362,Sierpc,,12-06-02,4425661.30
 363,Suwałki,11 Listopada 1A/3,20-09-14,4405225.40
 364,Warszawa,Nowolipie 31,21-08-14,4385216.80
-365,Olesno,Małe Przedmieście 8\n,28-06-11,4381532.50
+365,Olesno,Małe Przedmieście 8,28-06-11,4381532.50
 366,Bydgoszcz,Jagiellońska 39/47,25-01-14,4377161.00
 367,Warszawa,,29-11-07,4376168.20
 368,Warszawa,,29-11-07,4376168.20
@@ -407,7 +407,7 @@ Lp.,Miejscowość,Adres kolektury,Data,Wygrana
 406,Mysłowice,,24-10-01,3840558.10
 407,Poznań,,24-10-01,3840558.10
 408,Kraków,Śląska/Cieszyńska,08-05-10,3834825.70
-409,Rzgów,Plac 500-Lecia 1\n,08-05-10,3834825.70
+409,Rzgów,Plac 500-Lecia 1,08-05-10,3834825.70
 410,Warszawa,,29-04-00,3791400.90
 411,Warszawa,,20-01-07,3771252.80
 412,Gdańsk,,20-01-07,3771252.80
@@ -443,7 +443,7 @@ Lp.,Miejscowość,Adres kolektury,Data,Wygrana
 442,Góra Puławska,,05-01-02,3374715.90
 443,Rybnik,,02-08-08,3373419.30
 444,Oborniki,Kopernika 19,30-06-12,3372557.00
-445,Poznań,Ściegiennego 64\n,26-03-11,3359992.90
+445,Poznań,Ściegiennego 64,26-03-11,3359992.90
 446,Iława,,21-02-04,3356035.20
 447,Ożarów Mazowiecki,,15-03-08,3321027.60
 448,Wrocław,,07-01-04,3317563.50
@@ -459,7 +459,7 @@ Lp.,Miejscowość,Adres kolektury,Data,Wygrana
 458,Dąbrowa Tarnowska,,18-08-09,3251884.60
 459,Warszawa,,25-01-03,3250015.50
 460,Gniezno,,18-05-05,3237938.40
-461,Szczytno,Chrobrego 5\n,30-03-10,3227080.10
+461,Szczytno,Chrobrego 5,30-03-10,3227080.10
 462,Nisko,Plac Wolności,04-08-12,3219626.40
 463,Pniewy,,14-02-04,3215647.80
 464,Zielona Góra,Morelowa 34,15-11-14,3213086.50
@@ -485,7 +485,7 @@ Lp.,Miejscowość,Adres kolektury,Data,Wygrana
 484,Prudnik,,27-03-02,3104677.40
 485,Dobrcz,,09-12-06,3097026.20
 486,Częstochowa,,08-10-05,3088746.10
-487,Wrocław,Hallera 52\n,18-01-11,3084936.30
+487,Wrocław,Hallera 52,18-01-11,3084936.30
 488,Toruń,Traktorowa 42,14-07-15,3083181.70
 489,Prudnik,,20-12-03,3072361.00
 490,Nysa,,04-04-09,3064484.40
@@ -513,7 +513,7 @@ Lp.,Miejscowość,Adres kolektury,Data,Wygrana
 512,Kraków,,11-12-04,2987045.70
 513,Jaworzno,,11-12-04,2987045.70
 514,Żary,Broni Pancernej 15,12-09-15,2983994.60
-515,Poznań,Jaworowa 66\n,09-11-10,2978012.30
+515,Poznań,Jaworowa 66,09-11-10,2978012.30
 516,Pawłowiczki,,16-04-05,2977778.80
 517,Nowy Dwór Mazowiecki,,27-08-05,2971991.50
 518,Warszawa,,09-06-09,2971231.20
@@ -529,14 +529,14 @@ Lp.,Miejscowość,Adres kolektury,Data,Wygrana
 528,Kraków,,20-11-04,2924139.60
 529,Działdowo,,13-09-03,2923229.40
 530,Gdynia,,13-09-03,2923229.40
-531,Rzeszów,Krokusowa 2\n,10-07-10,2916025.60
-532,Siedlce,Browarna 1\n,08-01-11,2915179.50
+531,Rzeszów,Krokusowa 2,10-07-10,2916025.60
+532,Siedlce,Browarna 1,08-01-11,2915179.50
 533,Grodzisk Wielkopolski,,26-08-06,2912455.60
 534,Przemyśl,,03-09-03,2905519.80
 535,Zakopane,,03-09-03,2905519.80
 536,Łęczna,,20-08-05,2899848.60
 537,Gdańsk,,05-03-11,2899347.90
-538,Olszanica,Olszanica\n,05-03-11,2899347.90
+538,Olszanica,Olszanica,05-03-11,2899347.90
 539,Bełżyce,Fabryczna 6,05-03-11,2899347.90
 540,Łódź,,12-02-09,2894025.40
 541,Bydgoszcz ,,18-10-08,2887153.50
@@ -549,7 +549,7 @@ Lp.,Miejscowość,Adres kolektury,Data,Wygrana
 548,Raciąż,,21-11-98,2857102.40
 549,Sanok,,23-02-02,2854784.20
 550,Swarzędz,,20-11-08,2846647.50
-551,Poznań,Al. Solidarności 47\n,06-08-11,2844732.70
+551,Poznań,Al. Solidarności 47,06-08-11,2844732.70
 552,Warszawa,,28-05-03,2842696.30
 553,Zielona Góra,,12-01-02,2837936.80
 554,Śrem,,23-03-05,2832201.70
@@ -557,7 +557,7 @@ Lp.,Miejscowość,Adres kolektury,Data,Wygrana
 556,Niemodlin,,23-03-05,2832201.70
 557,Mikołów,,23-03-05,2832201.70
 558,Inowrocław,Jacewska 17,22-03-16,2830876.60
-559,Warszawa,Freta 17\n,02-07-11,2828160.60
+559,Warszawa,Freta 17,02-07-11,2828160.60
 560,Sosnowiec,,19-08-06,2826427.20
 561,Małogoszcz,Piłsudskiego 2,07-12-13,2826130.30
 562,Wąwolnica ,Rynek 3,21-06-08,2819031.40
@@ -565,7 +565,7 @@ Lp.,Miejscowość,Adres kolektury,Data,Wygrana
 564,Szczecin,,22-08-09,2805642.20
 565,Władysławowo,,13-06-09,2804477.10
 566,Żywiec,,07-05-09,2804393.40
-567,Wilkowice,Wyzwolenia 76\n,24-02-11,2800177.60
+567,Wilkowice,Wyzwolenia 76,24-02-11,2800177.60
 568,Żywiec,,07-11-09,2788567.00
 569,Pabianice,,07-11-09,2788567.00
 570,Nowy Dwór Mazowiecki,,07-11-09,2788567.00
@@ -575,7 +575,7 @@ Lp.,Miejscowość,Adres kolektury,Data,Wygrana
 574,Zielona Góra,,13-09-07,2779735.40
 575,Szczecin,Krzywoustego 11/12,29-10-13,2777977.10
 576,Lędziny,,15-11-07,2769280.20
-577,Sandomierz,Błonie 2\n,13-01-11,2768120.90
+577,Sandomierz,Błonie 2,13-01-11,2768120.90
 578,Częstochowa,,31-07-04,2765059.80
 579,Zabrze ,,25-09-08,2763930.90
 580,Łódź,,06-09-07,2753768.20
@@ -590,14 +590,14 @@ Lp.,Miejscowość,Adres kolektury,Data,Wygrana
 589,Goleniów,,15-05-08,2733272.20
 590,Rybnik,,17-06-06,2724780.70
 591,Wyszogród,,28-09-02,2719766.40
-592,Rajcza,Górska 15\n,24-06-10,2697929.30
-593,Warszawa,Ostrzycka 1/3\n,07-04-11,2691179.00
+592,Rajcza,Górska 15,24-06-10,2697929.30
+593,Warszawa,Ostrzycka 1/3,07-04-11,2691179.00
 594,Poznań,,04-06-09,2669404.50
 595,Katowice,,04-07-09,2657311.30
 596,Chabówka,,25-06-03,2653341.60
 597,Bielsko-Biała,,15-04-08,2642452.10
 598,Karczew,,15-04-08,2642452.10
-599,Tomaszów Mazowiecki,Jerozolimska 23\n,09-12-10,2632629.40
+599,Tomaszów Mazowiecki,Jerozolimska 23,09-12-10,2632629.40
 600,Skierniewice,,09-04-05,2614176.90
 601,Kraśnik,,08-12-01,2576932.20
 602,Piotrków Trybunalski,,08-12-01,2576932.20
@@ -675,23 +675,23 @@ Lp.,Miejscowość,Adres kolektury,Data,Wygrana
 674,Katowice,,09-07-05,2019052.70
 675,Świdnica,,09-07-05,2019052.70
 676,Warszawa,,09-07-05,2019052.70
-677,Warszawa,Pawińskiego 24\n,02-08-11,2000000.00
-678,Pszczyna,Turystyczna 14c\n,26-01-10,2000000.00
+677,Warszawa,Pawińskiego 24,02-08-11,2000000.00
+678,Pszczyna,Turystyczna 14c,26-01-10,2000000.00
 679,Koszalin,,08-12-09,2000000.00
 680,Ćmielów,Ostrowiecka 3,28-12-10,2000000.00
 681,Rozprza,,18-02-12,2000000.00
-682,Opalenica,Wyzwolenia 1\n,30-07-11,2000000.00
+682,Opalenica,Wyzwolenia 1,30-07-11,2000000.00
 683,Grudziądz,Chełmińska 68,21-01-10,2000000.00
-684,Warszawa,Nagodziców 2\n,06-07-10,2000000.00
-685,Warszawa,Globusowa 21\n,03-07-10,2000000.00
-686,Przemyśl,Spiechowicza 1\n,13-07-10,2000000.00
+684,Warszawa,Nagodziców 2,06-07-10,2000000.00
+685,Warszawa,Globusowa 21,03-07-10,2000000.00
+686,Przemyśl,Spiechowicza 1,13-07-10,2000000.00
 687,Czastary,Wolności 29,07-08-10,2000000.00
-688,Wrocław,Hubska 112/118\n,10-11-11,2000000.00
-689,Warszawa,Broniewskiego 28\n,10-08-10,2000000.00
+688,Wrocław,Hubska 112/118,10-11-11,2000000.00
+689,Warszawa,Broniewskiego 28,10-08-10,2000000.00
 690,Bolesławiec,Starzyńskiego 4a,09-10-10,2000000.00
 691,Mszana Dolna,,06-12-11,2000000.00
-692,Lublin,Pocztowa 1\n,19-01-12,2000000.00
-693,Warszawa,Al. Jerozolimskie 148\n,23-01-10,2000000.00
+692,Lublin,Pocztowa 1,19-01-12,2000000.00
+693,Warszawa,Al. Jerozolimskie 148,23-01-10,2000000.00
 694,Ostrołęka,Jana Pawła II 4,14-04-12,2000000.00
 695,Zabrze,Olchowa 4,10-05-12,2000000.00
 696,Dąbrowa Górnicza,Piłsudskiego 2j,08-05-12,2000000.00
@@ -700,7 +700,7 @@ Lp.,Miejscowość,Adres kolektury,Data,Wygrana
 699,Wrocław,Świeradowska 70,06-12-12,2000000.00
 700,Kotlin,Dworcowa 29,11-04-13,2000000.00
 701,Warszawa,Mołdawska 5/7 paw. 58,25-04-13,2000000.00
-702,Nowy Sącz,Hallera 34\n,27-04-13,2000000.00
+702,Nowy Sącz,Hallera 34,27-04-13,2000000.00
 703,Smolice,Smolice 133d,30-04-13,2000000.00
 704,Knurów,Górnicza 1,28-09-13,2000000.00
 705,Świętoszów,Brzozowa 14,15-10-13,2000000.00
@@ -847,7 +847,7 @@ Lp.,Miejscowość,Adres kolektury,Data,Wygrana
 846,Kraków,,01-04-06,1438216.20
 847,Zgorzelec,,06-12-03,1434645.60
 848,Kielce,,19-04-03,1434573.30
-849,Warszawa,Górczewska / Olbrachta, Bazar paw.T1\n,05-06-10,1430109.20
+849,Warszawa,Górczewska / Olbrachta Bazar paw.T1,05-06-10,1430109.20
 850,Katowice,Generała Zygmunta Waltera Jankego 59,05-06-10,1430109.20
 851,Częstochowa,,12-07-08,1427018.20
 852,Kędzierzyn-Koźle,,12-07-08,1427018.20
