@@ -7,6 +7,8 @@ var request = require('request'),
 var i = 0;
 var currUrl = url + i;
 
+fs.appendFileSync('data.csv', 'Lp.,Miejscowość,Adres kolektury,Data,Wygrana\n');
+
 var makeRequest = function(){
     request(currUrl, function (err, resp, body) {
         if (!err && resp.statusCode == 200) {
